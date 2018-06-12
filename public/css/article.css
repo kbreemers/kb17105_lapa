@@ -1,0 +1,89 @@
+body {
+  padding-top: 54px;
+}
+
+@media (min-width: 992px) {
+  body {
+    padding-top: 56px;
+    font-family: 'Lato', sans-serif, Arial, Helvetica, Sans-Serif;
+    font-size:12px;
+    line-height:18px;
+    color: #333;
+    background: #FFFFFF;
+    -webkit-font-smoothing: antialiased;
+  }
+}
+
+#share-buttons img {
+width: 35px;
+padding: 5px;
+border: 0;
+box-shadow: 0;
+display: inline;
+}
+
+h5 {
+  color: brown;
+}
+.g_lyrics_tag{
+  border:2px solid #99a7ee;
+  display:block;
+  font-size:1.313rem;
+  font-weight:400;
+  padding:1.5rem 4.5rem;
+  position:relative
+}
+
+.g_lyrics_tag a{
+  color:inherit
+}
+
+.g_lyrics_tag-title{
+  color:#99a7ee;
+  display:block;
+  font-size:.75em;
+  margin-top:.375rem
+}
+
+.text{
+  padding-top: 20px;
+  font-family: 'Lato', sans-serif, Arial, Helvetica, Sans-Serif;
+  font-size:18px;
+  color: #333;
+  background: #FFFFFF;
+  -webkit-font-smoothing: antialiased;
+}
+
+.btn-primary{
+  color: #FFFFFF;
+  background-color: #4a4a4a;
+  margin-top: .5rem;
+  margin-bottom: -1rem;
+}
+
+.article_video{
+  margin-top: .5rem;
+  margin-bottom: .5rem;
+}
+
+.footer{
+  position: fixed;
+left: 0;
+bottom: 0;
+width: 100%;
+background-color: #4a4a4a;
+color: white;
+text-align: center;
+}
+
+.article_rich_text_formatting{
+  color:#333;
+  font:100 1.25rem/1.65 Programme,sans-serif
+}
+
+.posted{
+
+}
+.article_header{
+  font-size: 30;
+}
